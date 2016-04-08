@@ -115,6 +115,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Database\001_CreateDatabase.sql" />
+    <Content Include="Database\002_CreateLoginAndUser.sql" />
+    <Content Include="Database\003_CreateTables.sql" />
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
